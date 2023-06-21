@@ -1,4 +1,7 @@
 # hashicat-aws
+
+> [Slides](https://hashicorp.github.io/field-workshops-terraform/slides/aws/terraform-oss/#1)
+
 Hashicat: A terraform built application for use in Hashicorp workshops
 
 Includes "Meow World" website.
